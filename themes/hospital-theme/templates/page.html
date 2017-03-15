@@ -1,0 +1,18 @@
+{% from 'macro.html' import carousel with context %}
+{% set name = page.title %}
+{% set link = page.url %}
+{% set count = 0 %}
+
+{% extends "base.html" %}
+
+
+{% block carousel %}
+    {% if name == "Home" %}
+        {{ carousel(count) }}
+    {% endif %}
+{% endblock carousel %}
+
+
+{% block content %}
+    {{ page.content }}
+{% endblock %}

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="525"
+   height="150"
+   viewBox="0 0 525.00001 150"
+   id="svg3346"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="CHB_Logo.svg"
+   inkscape:export-filename="C:\Users\ebaker\Desktop\CHB Logo\CHB_Logo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3348">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="92.857144 : 346.33295 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1145.2193 : 346.33295 : 1"
+       inkscape:persp3d-origin="619.03824 : 222.3172 : 1"
+       id="perspective3362" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="293.31661"
+     inkscape:cy="126.00955"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-text-baseline="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1058"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata3351">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Person 1"
+     transform="translate(0,-594.09448)">
+    <circle
+       style="fill:#004f86;fill-opacity:1"
+       id="path5651"
+       cx="69.643501"
+       cy="622.48645"
+       r="12.5" />
+    <path
+       style="fill:#004f86;fill-opacity:1"
+       d="M 69.642578,637.67651 A 43.638355,37.994732 0 0 0 26.568359,669.88354 45.238499,39.235561 0 0 1 69.642578,642.58276 45.238499,39.235561 0 0 1 112.77344,670.11987 43.638355,37.994732 0 0 0 69.642578,637.67651 Z"
+       id="path5731"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#00a8d8;fill-opacity:1"
+       d="M 94.08594,676.87768 A 34.561577,30.091827 0 0 0 59.882812,702.89331 35.828892,31.074564 0 0 1 94.08594,681.06323 35.828892,31.074564 0 0 1 128.31055,703.0437 34.561577,30.091827 0 0 0 94.08594,676.87768 Z"
+       id="path5731-48"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#007475;fill-opacity:1"
+       d="m 37.357422,695.68432 a 32.728767,28.496048 0 0 0 -32.394531,24.66407 33.928875,29.42667 0 0 1 32.394531,-20.6836 33.928875,29.42667 0 0 1 32.412109,20.82813 32.728767,28.496048 0 0 0 -32.412109,-24.8086 z"
+       id="path5731-3"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Person 2"
+     transform="translate(0,-594.09448)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Person 3"
+     transform="translate(0,-594.09448)">
+    <circle
+       style="fill:#00a8d8;fill-opacity:1"
+       id="path5651-5"
+       cx="94.085716"
+       cy="665.65051"
+       r="8.5" />
+    <circle
+       style="fill:#007475;fill-opacity:1"
+       id="path5651-1"
+       cx="37.357143"
+       cy="682.45154"
+       r="9.5" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Tagline"
+     transform="translate(0,-594.09448)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.81534576px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="134.96887"
+       y="768.85046"
+       id="text5631"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0440502,0.95780835)"><tspan
+         sodipodi:role="line"
+         id="tspan5633"
+         x="134.96887"
+         y="768.85046"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.13114166px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';letter-spacing:3.97074246px;word-spacing:0.93739718px;fill:#03548a;fill-opacity:1">OUR FAMILY CARING FOR YOURS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.81534576px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="134.48711"
+       y="768.64508"
+       id="text5631-1"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0440502,0.95780835)"><tspan
+         sodipodi:role="line"
+         id="tspan5633-9"
+         x="134.48711"
+         y="768.64508"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.13114166px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';letter-spacing:3.97074246px;word-spacing:0.93739718px;fill:#03548a;fill-opacity:1">OUR FAMILY CARING FOR YOURS</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Community Hospital of Bremen"
+     transform="translate(0,-594.09448)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:42.5405159px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="130.95724"
+       y="692.56299"
+       id="text3354"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0635128,0.94028017)"><tspan
+         sodipodi:role="line"
+         id="tspan3356"
+         x="130.95724"
+         y="692.56299"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.44589996px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#757776;fill-opacity:1">Community</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:41.22795868px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="136.73428"
+       y="721.21857"
+       id="text3358"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0306989,0.97021545)"><tspan
+         sodipodi:role="line"
+         id="tspan3360"
+         x="136.73428"
+         y="721.21857"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.38145447px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#757776;fill-opacity:1">Hospital of Bremen</tspan></text>
+  </g>
+</svg>

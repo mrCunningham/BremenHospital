@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<!--function imports from macro.html -->
+{% from 'macro.html' import genurl with context %}
+{% from 'macro.html' import pagetitle with context %}
+{% from 'macro.html' import navbar with context %}
+{% from 'macro.html' import footer with context %}
+{% from 'macro.html' import header with context %}
+
+<html lang="{{ DEFAULT_LANG }}">
+	<head>
+		{% block head %}
+			<title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+			<meta charset="utf-8" />
+
+			<link rel="icon" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/{{ FAVICON }}">
+
+			{{ pagetitle(name) }}
+
+			<!-- Load Bootstrap CSS -->
+			<link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/bootstrap.min.css">
+			<link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/styles.css">
+		{% endblock head %}
+	</head>
+
+	<body>
+		<div class="container-fluid block1">
+			<img src="../{{ THEME_STATIC_DIR }}/images/CHB_Logo.svg" class="img"/>
+			{% set link = ['/',link]|join %}
+			{{ navbar(link) }}
+		</div>
+
+		<div class="container block" id="wrap">
+			<div class="row">
+				<div class="col-md-12 hidden-xs">
+					{%block carousel %}
+					{% endblock carousel %}
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12">
+					{% block content %}
+					{% endblock content %}
+				</div>
+			</div>
+
+			{{ footer() }}
+
+			<!--Load JS FILES -->
+			<script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/jquery-1.12.0.min.js"></script>
+			<script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/bootstrap.min.js"></script>
+			<script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/modernizr-2.8.3.min.js"></script>
+			<script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/script.js"></script>
+		</div>
+	</body>
+</html>
