@@ -7,7 +7,17 @@ AUTHOR = 'Nathanael Cunningham'
 SITENAME = 'Community Hospital Of Bremen'
 SITEURL = ''
 
-MD_EXTENSIONS = ['mdx_sections']
+# MD_EXTENSIONS = ['mdx_sections']
+
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.codehilite': {'css_class': 'highlight'},
+        'markdown.extensions.extra': {},
+        'markdown.extensions.meta': {},
+        'mdx_sections': {},
+    },
+    'output_format': 'html5',
+}
 
 #Dont auto-generate these files
 ARCHIVES_SAVE_AS = ''

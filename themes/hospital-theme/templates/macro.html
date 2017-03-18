@@ -124,7 +124,7 @@
   	</nav>
 {% endmacro %}
 
-{% macro carousel(count) %}
+{% macro carousel() %}
 	<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 	    <!-- Indicators -->
 	    <ol class="carousel-indicators">
@@ -135,13 +135,16 @@
 		<!-- Wrapper for slides -->
 		<div class="carousel-inner">
 			{% for imgPath,imgText in CAROUSEL %}
-				<div class="item {% if count == 0  %} active {% endif %}">
+				{% if loop.first %}
+					<div class="item active">
+				{% else %}
+					<div class="item">
+				{% endif %}
 					<img src="{{ imgPath }}">
 					<div class="carousel-caption">
 						<h3>{{ imgText }}</h3>
 					</div>
 				</div>
-				{% set count = 1 %}
 			{% endfor %}
 		</div>
 		<!-- Controls -->
